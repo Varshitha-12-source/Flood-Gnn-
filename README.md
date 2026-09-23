@@ -19,6 +19,7 @@ The system includes:
 
 ## System Architecture
 
+```text
 Historical Flood Data
         ↓
 Data Preprocessing
