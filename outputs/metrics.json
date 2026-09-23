@@ -1,0 +1,32 @@
+{
+  "test_accuracy": 0.6148,
+  "test_roc_auc": 0.7714,
+  "n_test_nodes": 122,
+  "classification_report": {
+    "No Flood": {
+      "precision": 0.9454545454545454,
+      "recall": 0.5416666666666666,
+      "f1-score": 0.6887417218543046,
+      "support": 96.0
+    },
+    "Flood": {
+      "precision": 0.34328358208955223,
+      "recall": 0.8846153846153846,
+      "f1-score": 0.4946236559139785,
+      "support": 26.0
+    },
+    "accuracy": 0.6147540983606558,
+    "macro avg": {
+      "precision": 0.6443690637720488,
+      "recall": 0.7131410256410255,
+      "f1-score": 0.5916826888841415,
+      "support": 122.0
+    },
+    "weighted avg": {
+      "precision": 0.8171230286718419,
+      "recall": 0.6147540983606558,
+      "f1-score": 0.6473722979653826,
+      "support": 122.0
+    }
+  }
+}
